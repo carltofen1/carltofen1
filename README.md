@@ -2,6 +2,8 @@
 
 Soy Ingeniero de Software y profesor de desarrollo web. Combino la enseñanza con la creación de proyectos propios, siempre con el objetivo de construir soluciones claras, eficientes y que realmente aporten valor.  
 
+Actualmente enseño en **AfterLife Academy**, donde guío a estudiantes en su formación como desarrolladores.  
+
 ## Sobre mí
 - Nacionalidad peruana y húngara  
 - Profesor responsable de cursos en desarrollo web  
@@ -20,7 +22,3 @@ Soy Ingeniero de Software y profesor de desarrollo web. Combino la enseñanza co
 - Diseño de planes de estudio y formación de estudiantes en programación  
 - Prototipado de interfaces alternativas basadas en visión, gestos y voz  
 
-## Contacto
-- LinkedIn: linkedin.com/in/patrick-lazslo-pozsgai-acosta-880564274  
-- Portafolio/Blog: https://github.com/carltofen1
-- Email: patrickpozsgai2@gmail.com
